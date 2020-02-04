@@ -83,3 +83,7 @@ Setting：任意环境设置
 >>> 任意剧情  
 >>> B:  
 >>> 任意剧情
+
+## Flowchart
+请一定要在拍摄完每一集后根据剧本制作相对应的flow chart，方便对照
+参考 flow chart：https://www.processon.com/view/link/5e38f963e4b03ae34a31aaba
