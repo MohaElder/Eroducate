@@ -46,8 +46,8 @@ Download link: Under Development
 3. 不要在导出后删除设计资产，请备份
 4. logo等更适合矢量化的图像资产请尽量使用Illustrator制作
 5. 设计完成后请和全组人讨论
-6. <font color=#7ca4ca>Eroducate蓝</font>：```#7ca4ca ```
-7. <font color=#f5b5e7>Eroducate粉</font>：```#f5b5e7```
+6. Eroducate蓝：```#7ca4ca ```
+7. Eroducate粉：```#f5b5e7```
 8. 请所有设计务必以上面两个颜色（或任选一，或渐变）为主色调
 
 ## 文档资产
