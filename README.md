@@ -1,4 +1,4 @@
-# Erocuate项目规范
+# Eroducate项目规范
 
 为了保证Eroducate资产的可塑性和可维护性，所有操作Eroducate资产的人员必须严格遵守以下流程和规则。
 
