@@ -24,10 +24,10 @@ FASMEC Quick Notation Method is designed to quikcly annotate all the clips in a 
  * S + num: Shot num 
  * C + num: Choice num 
  * E + num: Establishing Shot/Insert Shot/Cutaway Shot num
-### Embed Nomination
-You can use Embed Object when it comes to a Choice under another Choice.  
+### Linked Nomination
+You can use Linked Notation when it comes to a Choice under another Choice.  
 
-E.G: FA2C1C1S2= Feamile Line Act2 Choice1's Choice 1 Shot1
+E.G: FA2C1C1S2= Female Line Act2 Choice1's Choice 1 Shot1
 ### Examples
 FA1S1 = Female Line Act1 Shot 1  
 MA1C1C2S1 = Male Line Act1 Choice1's Choice2 Shot1
