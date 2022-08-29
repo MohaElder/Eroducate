@@ -15,7 +15,7 @@
 
 ## FASMEC Quick Notation Method
 ### Why FASMEC?
-FASMEC Quick Nomination Method is designed to quikcly note all the clips in a massive project. It's both easy to learn and to understand. Using the FASMEC Quick Notation Method, you can even add your own notation symbols such as N for Night or f for Flash.
+FASMEC Quick Notation Method is designed to quikcly note all the clips in a massive project. It's both easy to learn and to understand. Using the FASMEC Quick Notation Method, you can even add your own notation symbols such as N for Night or f for Flash.
 ### Definition
 ``` var num = any positive integers; ```
  * F: Female Line 
